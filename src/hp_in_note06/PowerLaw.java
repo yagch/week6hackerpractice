@@ -3,7 +3,6 @@ package hp_in_note06;
 public class PowerLaw {
 	public static void main(String[] arg) {
 		// set the initial guess to (0,0)
-		double upperbound = 15;
 	    double[] x = {1.0, 4.5, 9.0, 20, 74, 181};
 	    double[] y = {3.0, 49.4, 245, 1808, 22000, 73000};
 		double a = 0.5;
